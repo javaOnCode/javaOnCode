@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Javanshir Aghayev</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate FULLSTACK developer from Azerbaijan</h3>
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400" align="right" alt="Coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javaOnCode&label=Profile%20views&color=0e75b6&style=flat" alt="javaOnCode" /> </p>
 
 
-- 🌱 I’m currently learning **Java, SpringBoot**
+- 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **React.js, JS**
+- 💬 Ask me about **React.js, JS, JAVA**
 
 - 📫 How to reach me **cavansir.agayev25@outlook.com**
 
