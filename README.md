@@ -26,7 +26,7 @@
 - 🚀 Building software products and business solutions through **[TechLeony](https://github.com/TechLeony)**.
 - 🧠 Experienced with **Gemini API, document-grounded AI assistants, and LLM integrations**.
 - 💬 Ask me about **React, TypeScript, Java, Python, and LLM applications**.
-- 📫 Reach me at **cavansir.agayev25@outlook.com**.
+- 📫 Reach me at **contact@leony.tech**.
 
 <br clear="right"/>
 
@@ -206,7 +206,7 @@ An interactive, storybook-style café experience featuring custom animations and
 <h2>📬 Connect With Me</h2>
 
 <p align="left">
-  <a href="mailto:cavansir.agayev25@outlook.com">
+  <a href="mailto:contact@leony.tech">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/javaOnCode">
