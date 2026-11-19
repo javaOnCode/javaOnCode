@@ -1,32 +1,221 @@
 
 <h1 align="center">Hi 👋, I'm Javanshir Aghayev</h1>
-<h3 align="center">A passionate FULLSTACK developer from Azerbaijan</h3>
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400" align="right" alt="Coding"/>
+<h3 align="center">Computer Engineering Student | AI & Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javaOnCode&label=Profile%20views&color=0e75b6&style=flat" alt="javaOnCode" /> </p>
-
-
-- 🌱 I’m currently learning **SpringBoot**
-
-- 💬 Ask me about **React.js, JS, JAVA**
-
-- 📫 How to reach me **cavansir.agayev25@outlook.com**
-
-- ⚡ Fun fact **I'm tenacious**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/javanshir.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javanshir.01" height="30" width="40" /></a>
+<p align="center">
+  Building AI-powered applications, full-stack software, and business automation solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>    </p>
+<p align="center">
+  <a href="https://github.com/javaOnCode">
+    <img src="https://komarev.com/ghpvc/?username=javaOnCode&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/TechLeony">
+    <img src="https://img.shields.io/badge/TechLeony-Commercial%20Projects-8A2BE2?style=flat&logo=github&logoColor=white" alt="TechLeony"/>
+  </a>
+</p>
 
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350" align="right" alt="Coding animation"/>
 
+### 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javaOnCode&show_icons=true&locale=en&layout=compact" alt="javaOnCode" /></p>
+- 🎓 Studying **Computer Engineering at Bilkent University**, Ankara, Türkiye.
+- 🇦🇿 Originally from **Azerbaijan**.
+- 🤖 Interested in **AI Engineering, LLMs, RAG, and intelligent automation**.
+- 💻 Developing applications using **Python, Java, JavaScript, TypeScript, and C++**.
+- 🚀 Building software products and business solutions through **[TechLeony](https://github.com/TechLeony)**.
+- 🧠 Experienced with **Gemini API, document-grounded AI assistants, and LLM integrations**.
+- 💬 Ask me about **React, TypeScript, Java, Python, and LLM applications**.
+- 📫 Reach me at **cavansir.agayev25@outlook.com**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javaOnCode&show_icons=true&locale=en" alt="javaOnCode" /></p>
+<br clear="right"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javaOnCode&" alt="javaOnCode" /></p>
+---
 
+<h2>💼 Experience</h2>
+
+### 🤖 AI Engineering Intern — Caspel
+**Summer 2026**
+
+Worked on AI-driven software development during my internship, including an intelligent exhibition assistant for **CIFTIS 2026**.
+
+- Developed a conversational AI assistant powered by **Google Gemini**.
+- Worked with **Retrieval-Augmented Generation (RAG)** and document-grounded question answering.
+- Integrated LLM functionality with backend APIs and application workflows.
+- Developed an interactive exhibition kiosk and QR-connected mobile visitor experience.
+- Worked with database-backed workflows, testing, and deployment.
+
+**Technologies:** Python, TypeScript, Next.js, Gemini API, RAG, REST APIs, PostgreSQL, Docker, Vercel.
+
+🔒 *The project repository is private.*
+
+### ☕ Java Development Intern — Intern Intelligence
+**February – March 2025**
+
+- Worked on Java programming and object-oriented software development.
+- Practiced implementing software solutions using core programming principles.
+
+---
+
+<h2>🚀 Featured Projects</h2>
+
+### 🤖 Caspel CIFTIS 2026 — AI Exhibition Assistant
+
+An AI-powered exhibition assistant developed during my internship at Caspel.
+
+The application combines **Google Gemini, document retrieval, and RAG** to deliver grounded answers using project-specific knowledge.
+
+**Highlights:**
+- LLM-powered conversational interface
+- Document-grounded retrieval
+- Interactive exhibition kiosk
+- QR-connected mobile experience
+- Backend API and data integrations
+
+**Stack:** Gemini API · RAG · Next.js · TypeScript · Python · PostgreSQL · Docker
+
+🔒 **Private internship project — source code not publicly available.**
+
+---
+
+### 💅 [Sonia Nail Bar — Booking & Management Platform](https://github.com/TechLeony/sonia-nail-bar)
+
+A multilingual appointment booking and salon management application developed through **TechLeony**.
+
+**Highlights:**
+- Responsive customer-facing website
+- Service and specialist selection
+- Duration-aware appointment scheduling
+- Booking conflict prevention
+- Manager dashboard and appointment analytics
+- Turkish, English, and Russian support
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS
+
+**Status:** Interactive frontend prototype.
+
+🔗 **[View Repository](https://github.com/TechLeony/sonia-nail-bar)**
+
+---
+
+### 💝 [StoryOfUs — by TechLeony](https://leony.tech/storyofus)
+
+A live web product for creating personalized digital relationship gifts.
+
+**Highlights:**
+- Personalized customer experiences
+- Checkout and order workflows
+- Payment verification
+- Backend and database integrations
+
+**Focus:** Full-stack development · E-commerce workflows · Product engineering
+
+**Status:** Live product.
+
+🔗 **[Visit StoryOfUs](https://leony.tech/storyofus)**
+
+---
+
+### ☕ Didi's Coffee — Interactive Café Application
+
+An interactive, storybook-style café experience featuring custom animations and gameplay-like interactions.
+
+**Stack:** React · TypeScript · Vite · PixiJS
+
+**Status:** In development.
+
+---
+
+<h2>🏢 TechLeony — Commercial Software Projects</h2>
+
+<p>
+  I build software applications and explore AI-driven business automation
+  through <strong>TechLeony</strong>.
+</p>
+
+<p>
+  My work focuses on customer-facing web platforms, business management tools,
+  intelligent integrations, and practical software solutions.
+</p>
+
+<p align="center">
+  <a href="https://github.com/TechLeony">
+    <img src="https://img.shields.io/badge/Explore_TechLeony_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="TechLeony GitHub"/>
+  </a>
+</p>
+
+---
+
+<h2>🛠️ Languages & Tools</h2>
+
+<h3>Programming Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" alt="Programming languages"/>
+</p>
+
+<h3>Frontend Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,bootstrap,sass,redux" alt="Frontend technologies"/>
+</p>
+
+<h3>Backend & Databases</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql,postgres" alt="Backend and database technologies"/>
+</p>
+
+<h3>AI & LLM Development</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-Language_Models-6B46C1?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-087E8B?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Gemini_API-Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-AI_Applications-8759C2?style=for-the-badge" alt="Prompt engineering"/>
+</p>
+
+<h3>Development Tools & Infrastructure</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel,figma" alt="Development tools"/>
+</p>
+
+---
+
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javaOnCode&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaOnCode&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=javaOnCode&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <i>My commercial work is also available through the separate <a href="https://github.com/TechLeony">TechLeony GitHub account</a>.</i>
+</p>
+
+---
+
+<h2>📬 Connect With Me</h2>
+
+<p align="left">
+  <a href="mailto:cavansir.agayev25@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/javaOnCode">
+    <img src="https://img.shields.io/badge/GitHub-javaOnCode-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub"/>
+  </a>
+  <a href="https://github.com/TechLeony">
+    <img src="https://img.shields.io/badge/GitHub-TechLeony-181717?style=for-the-badge&logo=github&logoColor=white" alt="TechLeony GitHub"/>
+  </a>
+  <a href="https://instagram.com/javanshir.01">
+    <img src="https://img.shields.io/badge/Instagram-javanshir.01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
